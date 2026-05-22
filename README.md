@@ -16,7 +16,7 @@
 
 *turning caffeine + curiosity into apps that actually work*
 
-[![TopCoder](https://img.shields.io/badge/TopCoder-Liza-1D456A?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/35001)
+[![TopCoder](https://img.shields.io/badge/TopCoder-khadidja-1D456A?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/35001)
 ![Status](https://img.shields.io/badge/status-final%20year%20survivor-brightgreen?style=flat-square)
 ![Focus](https://img.shields.io/badge/current%20obsession-Flutter%20%2B%20Clean%20Arch-blue?style=flat-square)
 
