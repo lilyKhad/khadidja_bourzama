@@ -1,112 +1,95 @@
-<h1 align="center">Hi 👋, I'm khadidja</h1>
+<!-- ============================================================
+     LIZA — GitHub Profile README
+     ============================================================ -->
 
-<h3 align="center">
-💻 Software Engineering Student | Flutter Developer | Tech Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building modern mobile apps, learning new technologies,  
-and creating clean, user-friendly interfaces.
-</p>
+```
+╔══════════════════════════════════════════════╗
+║   loading khadidja.exe ...  ██████████  100%     ║
+╚══════════════════════════════════════════════╝
+```
 
----
+# hey, I'm khadidja 👩‍💻
 
-<h3 align="left">🌐 Connect with me</h3>
+**4th-year Software Engineering student** · Flutter dev · always building something
 
-<p align="left">
-<a href="https://www.topcoder.com/members/35001" target="_blank">
-  <img align="center"
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg"
-    alt="topcoder"
-    height="30"
-    width="40" />
-</a>
-</p>
+*turning caffeine + curiosity into apps that actually work*
 
----
+[![TopCoder](https://img.shields.io/badge/TopCoder-Liza-1D456A?style=flat-square&logo=topcoder&logoColor=white)](https://www.topcoder.com/members/35001)
+![Status](https://img.shields.io/badge/status-final%20year%20survivor-brightgreen?style=flat-square)
+![Focus](https://img.shields.io/badge/current%20obsession-Flutter%20%2B%20Clean%20Arch-blue?style=flat-square)
 
-<h3 align="left">⚡ Languages & Tools</h3>
-
-<p align="left">
-
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/>
-</a>
-
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
-</a>
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/>
-</a>
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-</a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
-</a>
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/>
-</a>
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/>
-</a>
-
-<a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="45" height="45"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
-</a>
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
-</a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-</a>
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
-</a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
-</a>
-
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<h3 align="left">📚 Currently Learning</h3>
+## `whoami`
 
-- Flutter Advanced Architecture
-- Firebase & Backend Integration
-- Clean Architecture & Riverpod
-- UI/UX Design Principles
+```yaml
+name: khadidja
+role: Software Engineering Student (Year 4 of 5 — almost there 🎓)
+main_stack: Flutter · Dart · Firebase . supabase
+currently_learning:
+  - Clean Architecture & Riverpod
+  - Firebase & Backend Integration
+vibe: "ship it, then make it pretty"
+```
+
+---
+
+## `~/skills --list`
+
+**Mobile & Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase)
+
+**Tooling & Design**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=flat-square&logo=framer&logoColor=blue)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-<h3 align="left">🚀 Goals</h3>
+## `./now.sh`
 
-- Build impactful mobile applications
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Grow as a software engineer
+> 🔭 &nbsp;Deep in my **final year project** — send help (or snacks)  
+> 📱 &nbsp;Building with **Flutter** like it's a personality trait  
+> 🏗️ &nbsp;Untangling **Clean Architecture** one layer at a time  
+> 🎨 &nbsp;Learning that good UI/UX is actually really, really hard  
 
 ---
+
+## `./goals.md`
+
+- [ ] Ship a mobile app that real people actually use
+- [ ] Crack competitive programming (TopCoder is humbling 😅)
+- [ ] First open-source contribution merged
+- [ ] Graduate 🎓 ← *coming soon*
+
+---
+
+<div align="center">
+
+*open to internships · collaborations · interesting problems*
+
+**[TopCoder](https://www.topcoder.com/members/35001)** · *more links coming soon*
+
+<sub>readme crafted by hand, not a generator ✌️</sub>
+
+</div>
